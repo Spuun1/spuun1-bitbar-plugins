@@ -6,7 +6,7 @@
 # <bitbar.image>http://imgur.com/a/wy521</bitbar.image>
 # <bitbar.dependencies>AppleScript</bitbar.dependencies>
 #       
-#       Create automator service names Mute Microphone:
+#       Create automator service named Mute Microphone:
 #
 #       Service receives: "no input" in "any application"
 #
