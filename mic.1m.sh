@@ -4,7 +4,7 @@
 # <bitbar.author.github>Spuun1</bitbar.author.github>
 # <bitbar.desc>Show microphone level status and bind it with keyboard shortcut</bitbar.desc>
 # <bitbar.image>http://imgur.com/a/wy521</bitbar.image>
-# <bitbar.dependencies>AppleScript</bitbar.dependencies>
+# <bitbar.dependencies>AppleScript,Automator</bitbar.dependencies>
 #       
 #       Create automator service named Mute Microphone:
 #
