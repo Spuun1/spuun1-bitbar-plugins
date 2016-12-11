@@ -1,2 +1,2 @@
 # spuun1-bitbar-plugins
-Plugins for https://github.com/matryer/bitbar 
+Unofficial plugins for https://github.com/matryer/bitbar 
